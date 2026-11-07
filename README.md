@@ -1,19 +1,19 @@
-# John Doe
-John Doe is a minimalist personal website template made for developers built using only plain html, css and javascript.
+# Iris Calder | Product Designer
 
-Live demo is available here: [https://nicolasbrondin.github.io/john-doe/index.html](https://nicolasbrondin.github.io/john-doe/index.html)
+Personal portfolio site for Iris Calder, prepared by our studio from the open-source john-doe starter.
 
-![Project cover](src/img/open-graph.jpg)
+- Client ID: CL-1051
+- Delivery ID: DLV-20261107-691656
+- Location: Lisbon, Portugal
+- Contact: iris.calder@calderstudio.co
+- Plan: premium
+- Theme: midnight
+- Target repository: knobbyintens/iris-calder-portfolio-1349-20261107-691656
 
-## How to use it
+## Getting started
 
-Each time you load the page, it will load a random person infos and a random wallpaper. 
+Open index.html in a browser. The page is fully static and all profile content is hardcoded; no remote profile API is used.
 
-This is not made to be published like this. Simply fork the project, disable the javascript script and fill the html template with your infos.
+## Delivery notes
 
-You can publish the website on any static hosting service, very easily.
-
-Please don't forget to change all the metadata, it has been built to be SEO and Social Media friendly for your convenience :)
-
-## Acknowledgements
-All the random wallpapers are generated from the unsplash API and the user content from the randomuser.me API !
+This repository is a fork of NicolasBrondin/john-doe. Keep the fork history intact and do not replace it with a new repository.
